@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Adını vermek istemeyen izleyici",
+  "author": "Wai",
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
     "captcha-canvas": "^3.2.1",
