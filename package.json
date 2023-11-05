@@ -1,0 +1,19 @@
+{
+  "name": "ayran-codeshare",
+  "version": "1.0.0",
+  "description": "Ayran Codeshare Captchabot altyapi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Adını vermek istemeyen izleyici",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "captcha-canvas": "^3.2.1",
+    "croxydb": "^0.0.22",
+    "discord.js": "^14.13.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
