@@ -13,6 +13,9 @@ Eğer problem yaşıyorsan [Discord Sunucumuza](https://discord.gg/akparti) kat�
 ## 🎏 Katkıda Bulunma
 Eğer katkıda bulunmak isterseniz pull request atabilirsiniz.
 
+### Katkıda bulunanlar
+teve2
+
 ## 🎭 Lisans
 
 Bu proje lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını okuyun.
