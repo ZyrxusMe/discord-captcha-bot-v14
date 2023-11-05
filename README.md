@@ -18,4 +18,4 @@ teve2
 
 ## 🎭 Lisans
 
-Bu proje lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını okuyun.
+Bu proje lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE.md) dosyasını okuyun.
